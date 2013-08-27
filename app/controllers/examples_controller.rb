@@ -1,5 +1,6 @@
 class ExamplesController < ApplicationController
   def index
+    error!!!!
     render text: 'index'
   end
 
